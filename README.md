@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"&gt;Hi 👋, I'm Bad Bunny1>
+<h3 align="center"&gt;A passionate full-Stack developer from Kuwait.3>
 
-<!--
-**officicalalkhaldi/officicalalkhaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"&gt; >
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C# language, ML in Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [PyBattle](https://github.com/officicalalkhaldi/PyBattle)
+
+- 👨‍💻 All of my projects are available at [https://github.com/officicalalkhaldi?tab=repositories](https://github.com/officicalalkhaldi?tab=repositories)
+
+- 💬 Ask me about **Python, Kotlin, HTML, CSS**
+
+- 📫 How to reach me **https://github.com/officicalalkhaldi**
+
+- ⚡ Fun fact **I Love to Learn New Things**
+
+<h3 align="left"&gt;Connect with me:3>
+<p align="left">
+</P>
+
+<h3 align="left"&gt;Languages and Tools:3>
+<p align="left"&gt; &lt;img >
