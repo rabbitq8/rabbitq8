@@ -1,4 +1,4 @@
-<h1 Align="center">Hi 👋, I'm Bad Bunny</h1>
+<h1 Align="center">Hi 👋, I'm Rabbit Team</h1>
 <h3 Align="center">A passionate full-Stack developer from Kuwait.</h3>
 <br>
 <P Align="left">
