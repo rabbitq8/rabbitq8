@@ -4,10 +4,10 @@
 <P Align="left">
 
 - 🌱 I’m currently learning **C language, ML in Python**
-- 👯 I’m looking to collaborate on [PyBattle](https://github.com/officicalalkhaldi/PyBattle)
-- 👨‍💻 All of my projects are available at [here](https://github.com/officicalalkhaldi?tab=repositories)
+- 👯 I’m looking to collaborate on [PyBattle](https://github.com/rabbitq8/PyBattle)
+- 👨‍💻 All of my projects are available at [here](https://github.com/rabbitq8?tab=repositories)
 - 💬 Ask me about **Python, Kotlin, HTML, CSS**
-- 📫 How to reach me [Github](https://github.com/officicalalkhaldi)
+- 📫 How to reach me [Github](https://github.com/rabbitq8)
 - ⚡ Fun fact: **I Love to Learn New Things**
 
 </P>
