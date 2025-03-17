@@ -1,7 +1,11 @@
-<img src="./bg.jpg" align="center" alt="Banner" width="100%"/>
+<img src="./bg.jpg" Align="center" alt="BANNER" Width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Rabbit</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Kuwait</h3>
+<h1 Align="center">Hi 👋, I'm Rabbit</h1>
+<h3 Align="center">A passionate full-Stack developer from Kuwait</h3>
+
+<P Align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rabbitq8&label=Profile%20views&color=0e75b6&style=flat" alt="rabbitq8" /> 
+</P>
 
 ---
 
@@ -42,7 +46,3 @@ Feel free to reach out if you'd like to collaborate or just chat about tech!
 🔗 [GitHub Profile](https://github.com/rabbitq8)
 
 ---
-
-<P Align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rabbitq8&label=Profile%20views&color=0e75b6&style=flat" alt="rabbitq8" /> 
-</P>
