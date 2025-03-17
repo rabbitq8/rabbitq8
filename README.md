@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C Language** and **machine learning in python**.
 - 👯 I’m looking to collaborate on [PyBattle](https://github.com/rabbitq8/PyBattle).
-- 💬 Ask me about **Python, Kotlin, HTML, CSS**.
+- 💬 Ask me about ** Python, Kotlin, HTML, CSS **.
 - 📫 How to reach me: [Github](https://github.com/rabbitq8).
 - ⚡ Fun fact: **I Love to Learn New Things!**
 
